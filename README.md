@@ -50,12 +50,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mirazalikhan891-ui&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=mirazalikhan891-ui&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mirazalikhan891-ui&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=mirazalikhan891-ui&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirazalikhan891-ui&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mirazalikhan891-ui&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -65,7 +65,7 @@
   <a href="https://github.com/mirazalikhan891-ui">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:mirazalikhan891@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
